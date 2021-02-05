@@ -1,4 +1,4 @@
-# Jammming
+# musicSearch
 
 A React web application, that allows users to search the Spotify library, create a custom playlist, and then save the playlist to their Spotify account.
 
