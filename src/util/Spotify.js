@@ -2,7 +2,7 @@
 const clientId = process.env.REACT_APP_API_KEY;
 
 // add this to your accepted Spotify redirect URIs on the Spotify API
-const redirectUri = http://192.168.1.100:8123/auth/external/callback;
+const redirectUri = 'http://localhost:3000/callback/';
 
 let accessToken;
 
