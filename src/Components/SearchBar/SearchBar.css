@@ -13,7 +13,7 @@
   border-radius: 3px;
   margin-bottom: 2.22rem;
   color: #010c3f;
-  text-align: left;
+  text-align: center;
   font-size: 1rem;
 }
 
@@ -36,5 +36,5 @@
 }
 
 .SearchButton:hover {
-  background-color: rgba(12, 37, 180, 0.925);
+  background-color: rgba(108, 65, 233, .7);
 }
